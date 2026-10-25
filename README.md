@@ -4,11 +4,13 @@
 
 Transformo fluxos de trabalho em interfaces claras e experiências interativas. Meu foco é o frontend: componentes, navegação, estados de tela e integração da interface com APIs.
 
+[Conheça meu portfólio e explore a demonstração →](https://hackkles.github.io/)
+
 ## Projeto em destaque — ZNS
 
-Atuo principalmente no frontend do **ZNS / Zion Netic SaaS**, um ecossistema para rotinas contábeis, documentos fiscais e operações. O trabalho é colaborativo: meu foco está na experiência e nas interfaces; **Aloyr Rezende ([Ylaros](https://github.com/Ylaros))** atua principalmente nas APIs e no banco de dados.
+Atuo principalmente no frontend do **ZNS / Zion Netic SaaS**, um ecossistema para rotinas contábeis, documentos fiscais e operações. Minha contribuição se concentra nas interfaces, nos componentes, na navegação e na experiência de uso.
 
-O produto original tem repositório privado. A apresentação pessoal usa exemplos e dados fictícios para explicar conceitos da interface.
+O produto original tem repositório privado. Meu portfólio apresenta uma demonstração independente com exemplos e dados fictícios.
 
 ## Explorando desenvolvimento de jogos
 
@@ -16,4 +18,4 @@ Estou iniciando meus estudos em desenvolvimento de jogos, com interesse em inter
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/lucasleit3/) · [GitHub](https://github.com/Hackkles)
+[LinkedIn](https://www.linkedin.com/in/lucasleit3/) · [Portfólio](https://hackkles.github.io/)
